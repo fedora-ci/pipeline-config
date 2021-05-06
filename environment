@@ -1,0 +1,7 @@
+FEDORA_CI_RAWHIDE_RELEASE_ID=f35
+FEDORA_CI_GREENWAVE_API_URL=https://greenwave-web-greenwave.app.os.fedoraproject.org/api/v1.0
+FEDORA_CI_MESSAGE_PROVIDER=RabbitMQ
+FEDORA_CI_PAGURE_DIST_GIT_URL=https://src.fedoraproject.org
+FEDORA_CI_TESTING_FARM_API_URL=https://api.dev.testing-farm.io
+FEDORA_CI_TESTING_FARM_ARTIFACTS_URL=http://artifacts.dev.testing-farm.io
+KOJI_API_URL=https://koji.fedoraproject.org/kojihub

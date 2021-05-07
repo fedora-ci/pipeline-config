@@ -5,3 +5,5 @@ FEDORA_CI_PAGURE_DIST_GIT_URL=https://src.fedoraproject.org
 FEDORA_CI_TESTING_FARM_API_URL=https://api.dev.testing-farm.io
 FEDORA_CI_TESTING_FARM_ARTIFACTS_URL=http://artifacts.dev.testing-farm.io
 KOJI_API_URL=https://koji.fedoraproject.org/kojihub
+PIPELINE_LIBRARY_VERSION=1c414bc1f7b09e37ee5e603d4e407317241b81f4
+TOPICS_MAPPING_CONFIG_URL=https://raw.githubusercontent.com/fedora-ci/pipelines-config/fedora-ci/topics-mapping.json

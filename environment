@@ -5,10 +5,9 @@ FEDORA_CI_PAGURE_DIST_GIT_URL=https://src.fedoraproject.org
 FEDORA_CI_TESTING_FARM_API_URL=https://api.dev.testing-farm.io
 FEDORA_CI_TESTING_FARM_ARTIFACTS_URL=http://artifacts.dev.testing-farm.io
 KOJI_API_URL=https://koji.fedoraproject.org/kojihub
-PIPELINE_LIBRARY_VERSION=87f846ef354fe1dcf2967a4855789380a0e885b4
+PIPELINE_LIBRARY_VERSION=b928a33a6171ccbcb7ab433ba1ffc3d86dbc9222
 TOPICS_MAPPING_CONFIG_URL=https://raw.githubusercontent.com/fedora-ci/pipelines-config/fedora-ci/topics-mapping.json
 DEFAULT_TEST_PROFILE=f35
 DEFAULT_PIPELINE_TIMEOUT_MINUTES=720
 DEFAULT_DAYS_TO_KEEP_LOGS=45
 DEFAULT_ARTIFACTS_TO_KEEP=100
-

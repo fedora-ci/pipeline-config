@@ -1,6 +1,6 @@
-# Configuration for Fedora CI Pipelines
+# Configuration for CentOS Stream 9
 
-This repository contains global configuration for Fedora CI pipelines.
+This repository contains global configuration for c9s pipelines.
 
 ## environment
 
@@ -8,8 +8,8 @@ This file contains environment variables that will be available when the pipelin
 
 Example:
 ```
-FEDORA_CI_RAWHIDE_RELEASE_ID=f35
-FEDORA_CI_PAGURE_DIST_GIT_URL=https://src.fedoraproject.org
+DEFAULT_TEST_PROFILE=c9s
+DEFAULT_PIPELINE_TIMEOUT_MINUTES=1440
 ```
 
 The file can contain comments -- lines starting with `#` will be ignored.

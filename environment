@@ -9,5 +9,5 @@ KOJI_API_URL=https://koji.fedoraproject.org/kojihub
 TOPICS_MAPPING_CONFIG_URL=https://raw.githubusercontent.com/fedora-ci/pipelines-config/fedora-ci/topics-mapping.json
 DEFAULT_TEST_PROFILE=f37
 DEFAULT_PIPELINE_TIMEOUT_MINUTES=720
-DEFAULT_DAYS_TO_KEEP_LOGS=21
+DEFAULT_DAYS_TO_KEEP_LOGS=3
 DEFAULT_ARTIFACTS_TO_KEEP=100
